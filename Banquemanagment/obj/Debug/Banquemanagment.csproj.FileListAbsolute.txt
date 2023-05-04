@@ -1,0 +1,9 @@
+c:\users\mci\documents\visual studio 2017\Projects\Banquemanagment\Banquemanagment\bin\Debug\Banquemanagment.exe.config
+c:\users\mci\documents\visual studio 2017\Projects\Banquemanagment\Banquemanagment\bin\Debug\Banquemanagment.exe
+c:\users\mci\documents\visual studio 2017\Projects\Banquemanagment\Banquemanagment\bin\Debug\Banquemanagment.pdb
+c:\users\mci\documents\visual studio 2017\Projects\Banquemanagment\Banquemanagment\obj\Debug\Banquemanagment.Properties.Resources.resources
+c:\users\mci\documents\visual studio 2017\Projects\Banquemanagment\Banquemanagment\obj\Debug\Banquemanagment.csproj.GenerateResource.Cache
+c:\users\mci\documents\visual studio 2017\Projects\Banquemanagment\Banquemanagment\obj\Debug\Banquemanagment.exe
+c:\users\mci\documents\visual studio 2017\Projects\Banquemanagment\Banquemanagment\obj\Debug\Banquemanagment.pdb
+C:\Users\mci\documents\visual studio 2017\Projects\banquemanagment\Banquemanagment\obj\Debug\Banquemanagment.views.CreateCompte.resources
+C:\Users\mci\Documents\Visual Studio 2017\Projects\Banquemanagment\Banquemanagment\obj\Debug\Banquemanagment.csprojResolveAssemblyReference.cache

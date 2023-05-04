@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCompteCourant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CompteCourant>
+    <NumeroUser>2</NumeroUser>
+    <NumeroGuichet>76543</NumeroGuichet>
+    <Solde>6000</Solde>
+    <CodeSecret>76432</CodeSecret>
+    <TypeCompte>Compte Courant</TypeCompte>
+  </CompteCourant>
+</ArrayOfCompteCourant>
